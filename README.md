@@ -1,27 +1,16 @@
----
+# 🤖 Kodbud Artificial Intelligence Internship
 
-# 📂 Task‑2‑Face‑Detection/README.md
+🚀 This repository contains all projects completed as part of the **Kodbud Tech-Driven Artificial Intelligence Internship Program**.
 
-```markdown
-# 👤 Task 2: Face Detection using OpenCV
+It includes multiple hands-on tasks covering:
 
-## 📌 Description
-This project detects human faces in images using OpenCV's Haar Cascade Classifier.
-
-Developed under the **Kodbud AI Internship Program**.
-
----
-
-## 🚀 Features
-- Detects multiple faces in an image
-- Draws bounding boxes around detected faces
-- Supports batch image processing
-- Works with .jpg, .png, .webp images
+- Machine Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- Predictive Modeling
+- Automation
+- Python-based AI Applications
 
 ---
 
-## 🛠 Tech Stack
-- Python
-- OpenCV
-
----
+## 📂 Repository Structure
