@@ -1,18 +1,18 @@
 ---
 
-# 📂 Task‑2‑Face‑Detection/README.md
+#  Task‑2‑Face‑Detection/README.md
 
 ```markdown
-# 👤 Task 2: Face Detection using OpenCV
+#  Task 2: Face Detection using OpenCV
 
-## 📌 Description
+##  Description
 This project detects human faces in images using OpenCV's Haar Cascade Classifier.
 
 Developed under the **Kodbud AI Internship Program**.
 
 ---
 
-## 🚀 Features
+##  Features
 - Detects multiple faces in an image
 - Draws bounding boxes around detected faces
 - Supports batch image processing
@@ -20,7 +20,7 @@ Developed under the **Kodbud AI Internship Program**.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python
 - OpenCV
 
