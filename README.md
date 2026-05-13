@@ -1,2 +1,27 @@
-# Kodbud-Artificial-Intelligence-Internship
-AI internship project repository containing multiple Artificial Intelligence and Machine Learning tasks including Spam Email Classification, Computer Vision, NLP, Chatbots, Stock Prediction, Virtual Assistants, and more using Python, Scikit-learn, OpenCV, TensorFlow, and related AI technologies.
+---
+
+# 📂 Task‑2‑Face‑Detection/README.md
+
+```markdown
+# 👤 Task 2: Face Detection using OpenCV
+
+## 📌 Description
+This project detects human faces in images using OpenCV's Haar Cascade Classifier.
+
+Developed under the **Kodbud AI Internship Program**.
+
+---
+
+## 🚀 Features
+- Detects multiple faces in an image
+- Draws bounding boxes around detected faces
+- Supports batch image processing
+- Works with .jpg, .png, .webp images
+
+---
+
+## 🛠 Tech Stack
+- Python
+- OpenCV
+
+---
